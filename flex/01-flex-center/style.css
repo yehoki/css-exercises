@@ -3,7 +3,12 @@
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
 }
+
+/* Can also use 50% on justify content and align items*/
 
 .box {
   background: palevioletred;
